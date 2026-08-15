@@ -199,9 +199,10 @@ class ProxyInfo:
 class ProxyManager:
 
     SOURCES = [
-        "https://cdn.jsdelivr.net/gh/proxyscrape/free-proxy-list@main/proxies/protocols/http/data.txt",
-        "https://raw.githubusercontent.com/Thordata/awesome-free-proxy-list/main/proxies/http.txt",
-        "https://raw.githubusercontent.com/databay-labs/free-proxy-list/master/http.txt",
+        "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+        "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
+        "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+        "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
     ]
 
     def __init__(self):
