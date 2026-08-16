@@ -2,3 +2,4 @@ fastapi
 yt-dlp
 aiohttp
 httpx
+uvicorn
