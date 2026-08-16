@@ -212,4 +212,4 @@ async def get_proxy_status():
     return {
         "total_active": len(cached_proxies),
         "proxies": cached_proxies[:10]
-    }
+}
